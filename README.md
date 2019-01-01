@@ -1,7 +1,9 @@
 # requireJs-analysis
 
-require.js 版本2.3.6
+require.js 版本2.3.6<br/>>
 简化了require.js 的功能，方便理解原理。
+<br/>
+仅用于理解require 实现amd 的原理。不做实际开发使用。
 
 #### 运行：
 ```javascript
